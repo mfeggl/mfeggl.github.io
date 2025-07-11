@@ -18,13 +18,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Calum Skene
+title: Maximilian F. Eggl
 author:
-  name: C. S. Skene
-  email: c.s.skene@leeds.ac.uk
+  name: M. F. Skene
+  email: meggl@umh.es
 description: >- # this means to ignore newlines until "baseurl:"
-  I am a postdoc at the University of Leeds. My primary research interests
-  are applied mathematics and fluid dynamics.
+  I am an Emerging PI at the Institute of Neuroscience, Alicante. My primary research interests
+  lie at the boundary of Neuroscience and Machine learning.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -44,9 +44,9 @@ plugins:
 minima:
   skin: solarized
   social_links:
-    - { platform: github,  user_url: "https://github.com/csskene" }
-    - { platform: twitter, user_url: "https://twitter.com/CalumSkene" }
-    - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=IdiShGwAAAAJ&hl=en" }
+    - { platform: github,  user_url: "https://github.com/meggl23" }
+    - { platform: twitter, user_url: "https://twitter.com/meggl" }
+    - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=cwy9I34AAAAJ&hl=en" }
 
 header_pages:
   - publications.md
