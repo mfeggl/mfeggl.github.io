@@ -49,9 +49,11 @@ minima:
     - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=cwy9I34AAAAJ&hl=en" }
 
 header_pages:
-  - publications.md
-  - preprints.md
-  - tutorials.md
+  - Publications.md
+  - Preprints.md
+  - Teaching.md
+  - SpyDen.md
+  - Bio-DL_Workshop.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.
