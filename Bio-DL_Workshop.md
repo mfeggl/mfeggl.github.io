@@ -8,7 +8,7 @@ My tutorials are collected here.
 
 <ul>
   {% for post in site.posts %}
-    {% if post.categories[0] == 'tutorial' %}
+    {% if post.categories[0] == 'workshop' %}
       <li>
         <a href="{{ post.url }}">{{ post.title }}</a>
       </li>
