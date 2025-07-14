@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Teaching
-permalink: /tutorials/
+permalink: /teaching/
 ---
 
 My tutorials are collected here.  

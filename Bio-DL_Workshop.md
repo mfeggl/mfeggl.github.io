@@ -1,14 +1,14 @@
 ---
 layout: page
 title: Bio-DL Workshop
-permalink: /tutorials/
+permalink: /Workshops/
 ---
 
-My tutorials are collected here.  
+My tutorials are collected here.
 
 <ul>
   {% for post in site.posts %}
-    {% if post.categories[0] == 'workshop' %}
+    {% if post.categories contains 'workshop' %}
       <li>
         <a href="{{ post.url }}">{{ post.title }}</a>
       </li>

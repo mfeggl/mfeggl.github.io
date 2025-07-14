@@ -1,7 +1,7 @@
 ---
 layout: page
 title: SpyDen
-permalink: /tutorials/
+permalink: /SpyDen/
 ---
 
 My tutorials are collected here.  
