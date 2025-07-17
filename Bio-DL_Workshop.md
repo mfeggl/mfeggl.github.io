@@ -4,7 +4,7 @@ title: Bio-DL Workshop
 permalink: /Workshops/
 ---
 
-My tutorials are collected here.
+Find a collection of all the previous workshops here - and watch out for the next edition in 2026!
 
 <ul>
   {% for post in site.posts %}
