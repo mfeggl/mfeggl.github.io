@@ -24,7 +24,7 @@ My publications are collected here along with links to the article, accepted ver
    ```
    </details>
 
-* **Wieczorek, T.J.**, Tchumatchenko, T., Wert-Carvajal, C., and Eggl, M.F. *A framework for the emergence and analysis of language in social learning agents*, 2024, [Article](XXX)
+* Wieczorek, T.J., Tchumatchenko, T., Wert-Carvajal, C., and **Eggl, M.F.**. *A framework for the emergence and analysis of language in social learning agents*, 2024, [Article](https://www.nature.com/articles/s41467-024-51887-5)
    <details><summary markdown="span">BibTeX reference</summary>
 
    ```
@@ -36,13 +36,12 @@ My publications are collected here along with links to the article, accepted ver
      number={1},
      pages={7590},
      year={2024},
-     doi={XXX},
-     url={XXX}
+     doi={https://doi.org/10.1038/s41467-024-51887-5},
    }
    ```
    </details>
 
-* **Carruth, J.**, Eggl, M.F., Fefferman, C., and Rowley, C.W. *Controlling unknown linear dynamics with almost optimal regret*, 2024, [Article](XXX)
+* Carruth, J., **Eggl, M.F.**, Fefferman, C., and Rowley, C.W. *Controlling unknown linear dynamics with almost optimal regret*, 2024, [Article](https://ems.press/content/serial-article-files/50255)
    <details><summary markdown="span">BibTeX reference</summary>
 
    ```
@@ -51,13 +50,12 @@ My publications are collected here along with links to the article, accepted ver
      author={Jacob Carruth and Maximilian F. Eggl and Charles Fefferman and Clarence W. Rowley},
      journal={Revista Matemática Iberoamericana},
      year={2024},
-     doi={XXX},
-     url={XXX}
+     doi={https://doi.org/10.4171/RMI/1511},
    }
    ```
    </details>
 
-* **Carruth, J.**, Eggl, M.F., Fefferman, C., Rowley, C.W., and Weber, M. *Optimal agnostic control of unknown linear dynamics in a bounded parameter range*, 2024, [Article](XXX)
+* **Carruth, J.**, Eggl, M.F., Fefferman, C. and Rowley, C.W.*Optimal agnostic control of unknown linear dynamics in a bounded parameter range*, 2024, [Article](https://ems.press/content/serial-article-files/50254)
    <details><summary markdown="span">BibTeX reference</summary>
 
    ```
@@ -66,8 +64,7 @@ My publications are collected here along with links to the article, accepted ver
      author={Jacob Carruth and Maximilian F. Eggl and Charles Fefferman and Clarence W. Rowley},
      journal={Revista Matemática Iberoamericana},
      year={2024},
-     doi={XXX},
-     url={XXX}
+     doi={https://doi.org/10.4171/RMI/1510},
    }
    ```
    </details>

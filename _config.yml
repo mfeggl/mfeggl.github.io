@@ -47,13 +47,12 @@ minima:
     - { platform: github,  user_url: "https://github.com/meggl23" }
     - { platform: twitter, user_url: "https://twitter.com/meggl" }
     - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=cwy9I34AAAAJ&hl=en" }
-
-header_pages:
-  - Publications.md
-  - Preprints.md
-  - Teaching.md
-  - SpyDen.md
-  - Bio-DL_Workshop.md
+  nav_pages:
+    - publications.md
+    - preprints.md
+    - Teaching.md
+    - SpyDen.md
+    - Bio-DL_Workshop.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.
