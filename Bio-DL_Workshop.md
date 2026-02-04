@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Bio-DL Workshop
-permalink: /Workshops/
+permalink: /workshop/
 ---
 
 {% assign workshops = site.posts | where_exp: "post", "post.categories contains 'workshop'" %}
