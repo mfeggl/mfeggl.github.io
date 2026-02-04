@@ -29,14 +29,14 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 remote_theme: jekyll/minima
-#theme: minima
+
 plugins:
-  - jekyll-feed
   - jekyll-remote-theme
+  - jekyll-feed
   - jemoji
 
 minima:
-  skin: solarized
+  skin: solarized-dark
   social_links:
     - title: Github
       icon: github
@@ -45,17 +45,18 @@ minima:
       icon: x-twitter
       url: "https://x.com/maxeggl"
     - title: Google Scholar
-      icon: "google-scholar"
+      icon: google-scholar
       url: "https://scholar.google.com/citations?user=cwy9I34AAAAJ&hl=en&oi=ao"
     - title: Orcid
-      icon: "orcid"
+      icon: orcid
       url: "https://orcid.org/0000-0001-5815-1045"
-  nav_pages:
-    - publications.md
-    - preprints.md
-    - Teaching.md
-    - SpyDen.md
-    - Bio-DL_Workshop.md
+
+header_pages:
+  - publications.md
+  - preprints.md
+  - Teaching.md
+  - SpyDen.md
+  - Bio-DL_Workshop.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.
