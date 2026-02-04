@@ -12,7 +12,7 @@ upcoming: true
 
 We are pleased to announce a workshop on bio-inspired deep learning led by Prof. Elisa Donati (link to her [website](https://www.edonati.com)) from the University of Zurich and ETHZ, Zurich and funded by the support of the Joachim Herz Foundation.
 
-The workshop will take place from the 9th to the 12th of June, 2026, near Mainz, Germany.
+The workshop will take place from the 9th to the 12th of June, 2026, near Mainz, Germany at the [Weingut Domhof](https://weingut-domhof.de)
 
 This workshop will provide attendees with a unique opportunity to learn from one of the leading experts in the field and explore the intersection of mathematical modelling, machine learning, and data analysis to understand how the brain works.
 
@@ -29,7 +29,7 @@ We believe this workshop will be of great interest to those wishing to learn how
   <img src="/assets/Workshop/BDLLogo.jpeg"
        alt="Prof. Elisa Donati"
        style="max-width: 50%; height: auto;" />
-       
+
   <img src="/assets/Workshop/JhLogo.png"
        alt="Joachim Herz Foundation logo"
        style="max-width: 50%; height: auto; object-fit: contain;" />
