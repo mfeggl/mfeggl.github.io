@@ -18,10 +18,22 @@ This workshop will provide attendees with a unique opportunity to learn from one
 
 We believe this workshop will be of great interest to those wishing to learn how recent advances in bio-inspired small 'shadow networks' and feature engineering allow us interface with the nervous system. Furthermore, you will learn how these systems can be used to build closed-loop hybrid artificial and biological neural processing systems.
 
-<div style="background: white; padding: 1em; margin: 1.5em 0;">
+<div style="
+  background: white;
+  padding: 1em;
+  margin: 1.5em 0;
+  display: flex;
+  gap: 1em;
+  align-items: center;
+">
+  <img src="/assets/Workshop/BDLLogo.jpeg"
+       alt="Prof. Elisa Donati"
+       style="max-width: 50%; height: auto;" />
+       
   <img src="/assets/Workshop/JhLogo.png"
-       alt="Workshop overview"
-       style="display: block; margin: 0 auto; max-width: 100%; height: auto;" />
+       alt="Joachim Herz Foundation logo"
+       style="max-width: 50%; height: auto; object-fit: contain;" />
+
 </div>
 
 More information on the workshop and a link to the application can be found in the flyer. You can also directly access the application [here](https://urldefense.com/v3/__https://docs.google.com/forms/d/e/1FAIpQLSdbLgXH51SHgh1SlZJLYKG51HNBB1nPAO78qDv-k0BlO46a_g/viewform__;!!D9dNQwwGXtA!XP8JYwIVzdsu1XvRagnVYJQx0YCFepv8H2K3AIHKT__b8NRLhMoTbTwzUk-H0EDOnlZIP70varLG-f3YTeI$). The deadline for the application is the 2nd of March at 12:00 (CET). Accommodation, meals, and venue are all paid for by the Joachim Herz Foundation.
