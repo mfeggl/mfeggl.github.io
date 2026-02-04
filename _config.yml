@@ -38,6 +38,12 @@ plugins:
 
 minima:
   skin: solarized-dark
+  nav_pages:
+    - publications.md
+    - preprints.md
+    - teaching.md
+    - spyden.md
+    - workshop.md
   social_links:
     - title: Github
       icon: github
@@ -51,13 +57,6 @@ minima:
     - title: Orcid
       icon: "orcid"
       url: "https://orcid.org/0000-0001-5815-1045"
-
-header_pages:
-  - publications.md
-  - preprints.md
-  - teaching.md
-  - spyden.md
-  - workshop.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.
