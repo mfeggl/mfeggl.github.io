@@ -37,18 +37,3 @@ list_title: "Recent News"
 </style>
 
 I am currently a La Caixa Junior Leader Fellow at the Institute of Neuroscience, Alicante. My research interests are a bit eclectic, ranging from optimal control theory, computational neuroscience to machine learning. 
-
-<div class="feature-grid">
-  <a class="feature-item" href="/fluids/">
-    <img src="/assets/Pictures/Fluids.png" alt="Fluids" />
-    <h3>Fluids</h3>
-  </a>
-  <a class="feature-item" href="/Synapses/">
-    <img src="/assets/Pictures/Synapses.png" alt="Computational Neuroscience" />
-    <h3>Computational Neuroscience</h3>
-  </a>
-  <a class="feature-item" href="/Imaging/">
-    <img src="/assets/Pictures/MRI.png" alt="Imaging Neuroscience" />
-    <h3>Imaging Neuroscience</h3>
-  </a>
-</div>
