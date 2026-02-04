@@ -6,7 +6,7 @@ categories: workshop
 upcoming: true
 ---
 
-<img src="/assets/Workshop/elisa.jpeg"
+<img src="/assets/Workshop/Elisa.jpeg"
      alt="Invited expert Elisa Donati"
      style="float: right; margin: 0 0 1em 1.5em; width: 300px;" />
 
@@ -19,7 +19,7 @@ This workshop will provide attendees with a unique opportunity to learn from one
 We believe this workshop will be of great interest to those wishing to learn how recent advances in bio-inspired small 'shadow networks' and feature engineering allow us interface with the nervous system. Furthermore, you will learn how these systems can be used to build closed-loop hybrid artificial and biological neural processing systems.
 
 <div style="background: white; padding: 1em; margin: 1.5em 0;">
-  <img src="/assets/Workshop/JHlogo.png"
+  <img src="/assets/Workshop/JhLogo.png"
        alt="Workshop overview"
        style="display: block; margin: 0 auto; max-width: 100%; height: auto;" />
 </div>
