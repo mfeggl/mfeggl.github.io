@@ -35,32 +35,24 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # Build settings
 #remote_theme: jekyll/minima
 theme: minima
+
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme
   - jemoji
 
 minima:
-  skin: solarized
-  social_links:
-    - title: Github
-      icon: github
-      url: "https://github.com/meggl23"
-    - title: X
-      icon: x-twitter
-      url: "https://x.com/maxeggl"
-    - title: Google Scholar
-      icon: "google-scholar"
-      url: "https://scholar.google.com/citations?user=cwy9I34AAAAJ&hl=en&oi=ao"
-    - title: Orcid
-      icon: "orcid"
-      url: "https://orcid.org/0000-0001-5815-1045"
-  nav_pages:
-    - publications.md
-    - preprints.md
-    - Teaching.md
-    - SpyDen.md
-    - Bio-DL_Workshop.md
+  skin: solarized-dark
+  # or: solarized-dark
+
+github_username: meggl23
+twitter_username: maxeggl
+
+header_pages:
+  - publications.md
+  - preprints.md
+  - Teaching.md
+  - SpyDen.md
+  - Bio-DL_Workshop.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.
