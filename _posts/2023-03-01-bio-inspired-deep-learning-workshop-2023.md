@@ -3,6 +3,7 @@ layout: post
 title:  "Bio-inspired DL workshop 2023: Credit assignment"
 date:   2023-03-01 10:00:00 +0000
 categories: workshop
+upcoming: false
 ---
 
 ![Overview Diagram](/assets/Workshop/Photo_2023.jpeg)

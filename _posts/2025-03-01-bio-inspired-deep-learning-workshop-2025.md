@@ -1,8 +1,9 @@
 ---
 layout: post
 title:  "Bio-inspired DL workshop 2025: Dimensionality Reduction & Dynamical Systems"
-date:   2024-03-01 10:00:00 +0000
+date:   2025-03-01 10:00:00 +0000
 categories: workshop
+upcoming: false
 ---
 
 ![Overview Diagram](/assets/Workshop/Photo_2025.jpeg)

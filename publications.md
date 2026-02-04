@@ -4,13 +4,14 @@ title: Publications
 permalink: /publications/
 ---
 <!-- Print orcid id -->
-<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0001-5815-1045" href="https://orcid.org/0000-0001-5815-1045" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0001-5815-1045</a></div>
+<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0001-5815-1045" href="https://orcid.org/0000-0001-5815-1045" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="/assets/publications/orcid_logo.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0001-5815-1045</a></div>
 <!-- Collapsible code from https://www.endtoend.ai/tutorial/collapsible-code-blocks/ -->
 {::options parse_block_html="true" /}
 \
-My publications are collected here along with links to the article, accepted version, and any relevant code.
-
-* **Eggl, M.F.**, Wagle, S., Filling, J.P., Chater, T.E., Goda, Y., and Tchumatchenko, T. *SpyDen: Simplifying molecular and structural analysis across spines and dendrites*, 2024, [Article](https://academic.oup.com/bioinformatics/article/41/7/btaf339/8163946)
+My publications and preprints are collected here along with links to the article, accepted version, and any relevant code.
+## Test
+## Test2
+* <span style="color:royalblue;">Eggl, M.F. </span>, Wagle, S., Filling, J.P., Chater, T.E., Goda, Y., and Tchumatchenko, T. *SpyDen: Simplifying molecular and structural analysis across spines and dendrites*, 2024, [Article](https://academic.oup.com/bioinformatics/article/41/7/btaf339/8163946)
    <details><summary markdown="span">BibTeX reference</summary>
 
    ```
@@ -24,7 +25,7 @@ My publications are collected here along with links to the article, accepted ver
    ```
    </details>
 
-* Wieczorek, T.J., Tchumatchenko, T., Wert-Carvajal, C., and **Eggl, M.F.**. *A framework for the emergence and analysis of language in social learning agents*, 2024, [Article](https://www.nature.com/articles/s41467-024-51887-5)
+* Wieczorek, T.J., Tchumatchenko, T., Wert-Carvajal, C., and <span style="color:royalblue;">Eggl, M.F. </span>. *A framework for the emergence and analysis of language in social learning agents*, 2024, [Article](https://www.nature.com/articles/s41467-024-51887-5)
    <details><summary markdown="span">BibTeX reference</summary>
 
    ```
@@ -41,7 +42,7 @@ My publications are collected here along with links to the article, accepted ver
    ```
    </details>
 
-* Carruth, J., **Eggl, M.F.**, Fefferman, C., and Rowley, C.W. *Controlling unknown linear dynamics with almost optimal regret*, 2024, [Article](https://ems.press/content/serial-article-files/50255)
+* Carruth, J., <span style="color:royalblue;">Eggl, M.F. </span>, Fefferman, C., and Rowley, C.W. *Controlling unknown linear dynamics with almost optimal regret*, 2024, [Article](https://ems.press/content/serial-article-files/50255)
    <details><summary markdown="span">BibTeX reference</summary>
 
    ```
@@ -55,7 +56,7 @@ My publications are collected here along with links to the article, accepted ver
    ```
    </details>
 
-* **Carruth, J.**, Eggl, M.F., Fefferman, C. and Rowley, C.W.*Optimal agnostic control of unknown linear dynamics in a bounded parameter range*, 2024, [Article](https://ems.press/content/serial-article-files/50254)
+* Carruth, J., <span style="color:royalblue;">Eggl, M.F. </span>, Fefferman, C. and Rowley, C.W.*Optimal agnostic control of unknown linear dynamics in a bounded parameter range*, 2024, [Article](https://ems.press/content/serial-article-files/50254)
    <details><summary markdown="span">BibTeX reference</summary>
 
    ```
@@ -69,7 +70,7 @@ My publications are collected here along with links to the article, accepted ver
    ```
    </details>
 
-* **Chater, T.E.**, Eggl, M.F., Goda, Y., and Tchumatchenko, T. *Competitive processes shape multi-synapse plasticity along dendritic segments*, 2024, [Article](XXX)
+* Chater, T.E., <span style="color:royalblue;">Eggl, M.F. </span>, Goda, Y., and Tchumatchenko, T. *Competitive processes shape multi-synapse plasticity along dendritic segments*, 2024, [Article](XXX)
    <details><summary markdown="span">BibTeX reference</summary>
 
    ```
@@ -87,7 +88,7 @@ My publications are collected here along with links to the article, accepted ver
    ```
    </details>
 
-* **Eggl, M.F.**, Chater, T.E., Petkovic, J., Goda, Y., and Tchumatchenko, T. *Linking spontaneous and stimulated spine dynamics*, 2023, [Article](XXX)
+* <span style="color:royalblue;">Eggl, M.F. </span>, Chater, T.E., Petkovic, J., Goda, Y., and Tchumatchenko, T. *Linking spontaneous and stimulated spine dynamics*, 2023, [Article](XXX)
    <details><summary markdown="span">BibTeX reference</summary>
 
    ```
@@ -105,7 +106,7 @@ My publications are collected here along with links to the article, accepted ver
    ```
    </details>
 
-* **Carruth, J.**, Eggl, M.F., Fefferman, C., Rowley, C.W., and Weber, M. *Controlling unknown linear dynamics with bounded multiplicative regret*, 2022, [Article](XXX)
+* Carruth, J. , <span style="color:royalblue;">Eggl, M.F. </span>, Fefferman, C., Rowley, C.W., and Weber, M. *Controlling unknown linear dynamics with bounded multiplicative regret*, 2022, [Article](XXX)
    <details><summary markdown="span">BibTeX reference</summary>
 
    ```
@@ -123,7 +124,7 @@ My publications are collected here along with links to the article, accepted ver
    ```
    </details>
 
-* **Eggl, M.F.** and Schmid, P.J. *Shape optimization of stirring rods for mixing binary fluids*, 2022, [Article](XXX)
+* <span style="color:royalblue;">Eggl, M.F. </span> and Schmid, P.J. *Shape optimization of stirring rods for mixing binary fluids*, 2022, [Article](XXX)
    <details><summary markdown="span">BibTeX reference</summary>
 
    ```
@@ -141,7 +142,7 @@ My publications are collected here along with links to the article, accepted ver
    ```
    </details>
 
-* **Eggl, M.F.** and Schmid, P.J. *Mixing by stirring: Optimizing shapes and strategies*, 2022, [Article](XXX)
+* <span style="color:royalblue;">Eggl, M.F. </span> and Schmid, P.J. *Mixing by stirring: Optimizing shapes and strategies*, 2022, [Article](XXX)
    <details><summary markdown="span">BibTeX reference</summary>
 
    ```
@@ -159,7 +160,7 @@ My publications are collected here along with links to the article, accepted ver
    ```
    </details>
 
-* **Skene, C.S.**, Eggl, M.F., and Schmid, P.J. *A parallel-in-time approach for accelerating direct-adjoint studies*, 2021, [Article](XXX)
+* Skene, C.S., <span style="color:royalblue;">Eggl, M.F. </span>, and Schmid, P.J. *A parallel-in-time approach for accelerating direct-adjoint studies*, 2021, [Article](XXX)
    <details><summary markdown="span">BibTeX reference</summary>
 
    ```
@@ -176,7 +177,7 @@ My publications are collected here along with links to the article, accepted ver
    ```
    </details>
 
-* **Eggl, M.F.** and Schmid, P.J. *Mixing enhancement in binary fluids using optimised stirring strategies*, 2020, [Article](XXX)
+* <span style="color:royalblue;">Eggl, M.F. </span> and Schmid, P.J. *Mixing enhancement in binary fluids using optimised stirring strategies*, 2020, [Article](XXX)
    <details><summary markdown="span">BibTeX reference</summary>
 
    ```
@@ -193,7 +194,7 @@ My publications are collected here along with links to the article, accepted ver
    ```
    </details>
 
-* **Eggl, M.F.** and Schmid, P.J. *A gradient-based framework for maximizing mixing in binary fluids*, 2018, [Article](XXX)
+* <span style="color:royalblue;">Eggl, M.F. </span> and Schmid, P.J. *A gradient-based framework for maximizing mixing in binary fluids*, 2018, [Article](XXX)
    <details><summary markdown="span">BibTeX reference</summary>
 
    ```

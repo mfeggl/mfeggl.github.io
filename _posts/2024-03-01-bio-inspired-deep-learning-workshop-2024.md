@@ -3,6 +3,7 @@ layout: post
 title:  "Bio-inspired DL workshop 2024: Simulation-based inference"
 date:   2024-03-01 10:00:00 +0000
 categories: workshop
+upcoming: false
 ---
 
 ![Overview Diagram](/assets/Workshop/Photo_2024.jpeg)
